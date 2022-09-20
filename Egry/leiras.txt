@@ -1,0 +1,17 @@
+Egri József feladat (az eredeti feladat táblázatosan oldja meg a kinézetet, ami nem reszponzív)
+
+Elkészítendő fájlok:
+- index.html
+- katalogus.html
+- kep.html
+- style.css
+
+Stílus
+- oldalháttér, menü háttér, fejléc és lábléc szövege: Maroon
+- fejléc háttér, tartalmi háttér, lábléc háttér, menü szövege: LightYellow
+- menü szövege kiskapitális
+- az aktuálisan megjelenített oldal menüpontja fekete
+- tartalmi szélesség 95%, de legfeljebb 1000 képpont
+- oldal menü mérete 20%
+
+- minden egyéb a minta szerint

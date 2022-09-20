@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkred;
+    border-collapse: separate;
+}
+
+.oldal{
+    border-style: double;
+    display: flex;
+    margin: auto;
+    width: 1150px;
+    min-width: 1000px;
+    background-color: #ffffe1;
+    border-collapse: collapse;
+}
+
+.szoveg{
+    padding: 20px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.cim{
+    text-align: center;
+    border: 2px solid black;
+    border-left: none;
+}
+
+.cim h1{
+    text-align: center;
+    margin: 10px;
+}
+
+.menu{
+    border: 2px solid black;
+    padding-top: 0px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.menu h2 a
+{
+    color: darkred;
+    text-decoration: none;
+
+}
+
+.aktualis
+{
+    color: black !important;
+}
+
+
+.menu h2 a:hover{
+    text-decoration: underline;
+}
+.ecset
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.fenykep
+{
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
